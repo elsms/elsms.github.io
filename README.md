@@ -1,4 +1,4 @@
-#### Hi there! I'm Elisa
+#### Hi there 👋! I'm Elisa
 
-🎓 Currently pursuing a double degree in FinTech & Data Analytics
-📚 Holder of a BSc in Economics & Data Science
+🎓 **Double Degree Student** in FinTech & Data Analytics  
+📊 **BSc in Economics & Data Science**  
