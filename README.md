@@ -9,5 +9,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FE7F1A?style=for-the-badge&logo=apache%20spark&logoColor=white)
 ![Econometrics](https://img.shields.io/badge/%F0%9F%93%88%20Econometrics-4AB197?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/%F0%9F%92%B0-FinTech-2CA42B?style=for-the-badge)
+
+
 
 
